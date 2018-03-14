@@ -1,0 +1,2 @@
+# pomos
+pomos za git
